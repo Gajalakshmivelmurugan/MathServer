@@ -131,11 +131,13 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
-![Alt text](<Screenshot 2023-11-23 114919.png>)
+![Screenshot 2023-11-23 114919](https://github.com/Gajalakshmivelmurugan/MathServer/assets/144871940/cb3f5f3f-a55f-421e-a9d5-eaf91c12e2c4)
+
 
 ## HOMEPAGE:
-![Alt text](<Screenshot 2023-11-23 114759.png>)
 
+
+![Screenshot 2023-11-23 114759](https://github.com/Gajalakshmivelmurugan/MathServer/assets/144871940/1a9ba03f-90f6-4551-8df4-e7b6088805db)
 
 
 ## RESULT:
